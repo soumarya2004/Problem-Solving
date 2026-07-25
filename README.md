@@ -7,6 +7,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0001-two-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,5 +23,14 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumarya2004/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/soumarya2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
