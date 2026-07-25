@@ -10,12 +10,14 @@ public:
     string minWindow(string s, string t) {
         int m = s.size();
         int n = t.size();
-        if (m < n)
+        if (m < n){
             return "";
+        }
         vector<int> have(256, 0);
         vector<int> need(256, 0);
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i < n; i++){
             need[t[i]]++;
+        }
         int low = 0;
         int res = INT_MAX;
         int start = -1;
@@ -31,8 +33,9 @@ public:
                 low++;
             }
         }
-        if (res == INT_MAX)
+        if (res == INT_MAX){
             return "";
+        }
         return s.substr(start, res);
     }
 };
