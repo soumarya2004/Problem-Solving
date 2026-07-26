@@ -8,6 +8,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0001-two-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -40,4 +41,12 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
