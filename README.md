@@ -55,4 +55,12 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/soumarya2004/Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/soumarya2004/Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
