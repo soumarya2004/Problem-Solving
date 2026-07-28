@@ -26,6 +26,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumarya2004/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/soumarya2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,6 +54,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -69,4 +71,8 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0141-linked-list-cycle](https://github.com/soumarya2004/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/soumarya2004/Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
