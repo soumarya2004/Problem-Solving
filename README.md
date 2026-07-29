@@ -22,6 +22,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0142-linked-list-cycle-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/soumarya2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0076-minimum-window-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/soumarya2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,6 +55,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0202-happy-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -81,8 +84,13 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
