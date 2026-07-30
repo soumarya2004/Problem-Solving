@@ -7,6 +7,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/soumarya2004/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,4 +100,8 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/soumarya2004/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
