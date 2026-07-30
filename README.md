@@ -29,6 +29,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumarya2004/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/soumarya2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
@@ -55,6 +56,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0202-happy-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
@@ -93,4 +95,8 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
