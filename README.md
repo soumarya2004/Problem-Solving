@@ -131,4 +131,8 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/soumarya2004/Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
