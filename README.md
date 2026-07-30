@@ -11,6 +11,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0088-merge-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumarya2004/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/soumarya2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
@@ -26,6 +27,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0076-minimum-window-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/soumarya2004/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/soumarya2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/soumarya2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -68,6 +70,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/soumarya2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -96,6 +99,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/soumarya2004/Problem-Solving/tree/master/0169-majority-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
@@ -119,6 +123,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/soumarya2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
