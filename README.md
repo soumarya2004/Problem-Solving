@@ -152,6 +152,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/soumarya2004/Problem-Solving/tree/master/0511-game-play-analysis-i) |
+| [0577-employee-bonus](https://github.com/soumarya2004/Problem-Solving/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/soumarya2004/Problem-Solving/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/soumarya2004/Problem-Solving/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/soumarya2004/Problem-Solving/tree/master/1068-product-sales-analysis-i) |
