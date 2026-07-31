@@ -10,6 +10,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/soumarya2004/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/soumarya2004/Problem-Solving/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/soumarya2004/Problem-Solving/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumarya2004/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
