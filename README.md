@@ -9,6 +9,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0001-two-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/soumarya2004/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/soumarya2004/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/soumarya2004/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/soumarya2004/Problem-Solving/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -155,4 +156,12 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0595-big-countries](https://github.com/soumarya2004/Problem-Solving/tree/master/0595-big-countries) |
 | [1683-invalid-tweets](https://github.com/soumarya2004/Problem-Solving/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/soumarya2004/Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/soumarya2004/Problem-Solving/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/soumarya2004/Problem-Solving/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
