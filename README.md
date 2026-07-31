@@ -14,6 +14,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0169-majority-element](https://github.com/soumarya2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/soumarya2004/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/soumarya2004/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -61,6 +62,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/soumarya2004/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
