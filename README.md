@@ -12,6 +12,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0054-spiral-matrix](https://github.com/soumarya2004/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/soumarya2004/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/soumarya2004/Problem-Solving/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/soumarya2004/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumarya2004/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -32,6 +33,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0001-two-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumarya2004/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/soumarya2004/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/soumarya2004/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
@@ -168,6 +170,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/soumarya2004/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/soumarya2004/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
