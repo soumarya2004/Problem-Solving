@@ -22,6 +22,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0238-product-of-array-except-self](https://github.com/soumarya2004/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/soumarya2004/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -74,6 +75,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0189-rotate-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -138,6 +140,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0053-maximum-subarray](https://github.com/soumarya2004/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumarya2004/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,4 +172,12 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/soumarya2004/Problem-Solving/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
