@@ -165,6 +165,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/soumarya2004/Problem-Solving/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/soumarya2004/Problem-Solving/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/soumarya2004/Problem-Solving/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/soumarya2004/Problem-Solving/tree/master/0584-find-customer-referee) |
