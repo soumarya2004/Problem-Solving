@@ -7,6 +7,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/soumarya2004/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/soumarya2004/Problem-Solving/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/soumarya2004/Problem-Solving/tree/master/0053-maximum-subarray) |
@@ -49,6 +50,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumarya2004/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/soumarya2004/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/soumarya2004/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/soumarya2004/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
@@ -201,4 +203,8 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/soumarya2004/Problem-Solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
