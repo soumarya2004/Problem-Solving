@@ -36,6 +36,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0001-two-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumarya2004/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/soumarya2004/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/soumarya2004/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/soumarya2004/Problem-Solving/tree/master/0141-linked-list-cycle) |
@@ -51,6 +52,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumarya2004/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/soumarya2004/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/soumarya2004/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/soumarya2004/Problem-Solving/tree/master/0125-valid-palindrome) |
@@ -85,6 +87,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/soumarya2004/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
