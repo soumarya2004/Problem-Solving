@@ -27,6 +27,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0238-product-of-array-except-self](https://github.com/soumarya2004/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/soumarya2004/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/soumarya2004/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
@@ -50,6 +51,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0205-isomorphic-strings](https://github.com/soumarya2004/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/soumarya2004/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/soumarya2004/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/soumarya2004/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/soumarya2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -85,6 +87,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/soumarya2004/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -114,6 +117,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0215-kth-largest-element-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/soumarya2004/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/soumarya2004/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/soumarya2004/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -144,6 +148,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0202-happy-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/soumarya2004/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/soumarya2004/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/soumarya2004/Problem-Solving/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/soumarya2004/Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 ## Counting Sort
