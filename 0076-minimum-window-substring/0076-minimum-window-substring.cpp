@@ -1,41 +1,36 @@
 class Solution {
 public:
-    bool fun(vector<int>& have, vector<int>& need) {
-        for (int i = 0; i < 256; i++) {
-            if (have[i] < need[i])
-                return false;
-        }
-        return true;
-    }
     string minWindow(string s, string t) {
-        int m = s.size();
-        int n = t.size();
-        if (m < n){
-            return "";
+        unordered_map<char, int> mp;
+        for(int i=0; i<t.size(); i++){
+            mp[t[i]]++;
         }
-        vector<int> have(256, 0);
-        vector<int> need(256, 0);
-        for (int i = 0; i < n; i++){
-            need[t[i]]++;
-        }
-        int low = 0;
-        int res = INT_MAX;
-        int start = -1;
-        for (int high = 0; high < m; high++) {
-            have[s[high]]++;
-            while (fun(have, need)) {
-                int len = high - low + 1;
-                if (len < res) {
-                    res = len;
-                    start = low;
+        int left=0;
+        int right=0;
+        int count=t.size();
+        int minLen=INT_MAX;
+        int start=0;
+        while(right<s.size()){
+            if(mp[s[right]]>0){
+                count--;
+            }
+            mp[s[right]]--;
+            right++;
+            while(count==0){
+                if(right-left<minLen){
+                    minLen=right-left;
+                    start=left;
                 }
-                have[s[low]]--;
-                low++;
+                mp[s[left]]++;
+                if(mp[s[left]]>0){
+                    count++;
+                }
+                left++;
             }
         }
-        if (res == INT_MAX){
+        if(minLen==INT_MAX){
             return "";
         }
-        return s.substr(start, res);
+        return s.substr(start, minLen);
     }
 };
