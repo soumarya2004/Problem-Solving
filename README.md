@@ -55,6 +55,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumarya2004/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/soumarya2004/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/soumarya2004/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/soumarya2004/Problem-Solving/tree/master/0049-group-anagrams) |
@@ -128,6 +129,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/soumarya2004/Problem-Solving/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -165,6 +167,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/soumarya2004/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumarya2004/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -232,4 +235,8 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
