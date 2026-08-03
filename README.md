@@ -201,6 +201,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0181-employees-earning-more-than-their-managers](https://github.com/soumarya2004/Problem-Solving/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/soumarya2004/Problem-Solving/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/soumarya2004/Problem-Solving/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/soumarya2004/Problem-Solving/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/soumarya2004/Problem-Solving/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/soumarya2004/Problem-Solving/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/soumarya2004/Problem-Solving/tree/master/0570-managers-with-at-least-5-direct-reports) |
