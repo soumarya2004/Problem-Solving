@@ -242,4 +242,8 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
