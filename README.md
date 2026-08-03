@@ -195,6 +195,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/soumarya2004/Problem-Solving/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/soumarya2004/Problem-Solving/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/soumarya2004/Problem-Solving/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/soumarya2004/Problem-Solving/tree/master/0197-rising-temperature) |
