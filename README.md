@@ -30,6 +30,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/soumarya2004/Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -97,6 +98,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
@@ -168,6 +170,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,8 +219,17 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soumarya2004/Problem-Solving/tree/master/0014-longest-common-prefix) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
