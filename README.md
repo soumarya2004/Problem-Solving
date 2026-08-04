@@ -35,6 +35,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/soumarya2004/Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3731-find-missing-elements](https://github.com/soumarya2004/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0424-longest-repeating-character-replacement](https://github.com/soumarya2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/soumarya2004/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -122,6 +124,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/soumarya2004/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
