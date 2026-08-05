@@ -260,4 +260,16 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0202-happy-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/soumarya2004/Problem-Solving/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/soumarya2004/Problem-Solving/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/soumarya2004/Problem-Solving/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
