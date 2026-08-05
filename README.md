@@ -240,6 +240,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0619-biggest-single-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/soumarya2004/Problem-Solving/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/soumarya2004/Problem-Solving/tree/master/1068-product-sales-analysis-i) |
+| [1321-restaurant-growth](https://github.com/soumarya2004/Problem-Solving/tree/master/1321-restaurant-growth) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/soumarya2004/Problem-Solving/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/soumarya2004/Problem-Solving/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/soumarya2004/Problem-Solving/tree/master/1661-average-time-of-process-per-machine) |
