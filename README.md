@@ -58,6 +58,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0242-valid-anagram](https://github.com/soumarya2004/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/soumarya2004/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/soumarya2004/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/soumarya2004/Problem-Solving/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/soumarya2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/soumarya2004/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/soumarya2004/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
@@ -77,6 +78,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0151-reverse-words-in-a-string](https://github.com/soumarya2004/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/soumarya2004/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/soumarya2004/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/soumarya2004/Problem-Solving/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/soumarya2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/soumarya2004/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/soumarya2004/Problem-Solving/tree/master/0443-string-compression) |
@@ -171,6 +173,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0169-majority-element](https://github.com/soumarya2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/soumarya2004/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/soumarya2004/Problem-Solving/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
