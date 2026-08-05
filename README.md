@@ -245,6 +245,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [1683-invalid-tweets](https://github.com/soumarya2004/Problem-Solving/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/soumarya2004/Problem-Solving/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/soumarya2004/Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
+| [1965-employees-with-missing-information](https://github.com/soumarya2004/Problem-Solving/tree/master/1965-employees-with-missing-information) |
 ## Matrix
 |  |
 | ------- |
