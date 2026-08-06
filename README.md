@@ -121,6 +121,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
@@ -307,4 +308,8 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/soumarya2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
