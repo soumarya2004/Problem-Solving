@@ -85,6 +85,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0424-longest-repeating-character-replacement](https://github.com/soumarya2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/soumarya2004/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/soumarya2004/Problem-Solving/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/soumarya2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumarya2004/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -178,6 +179,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/soumarya2004/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/soumarya2004/Problem-Solving/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/soumarya2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/soumarya2004/Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumarya2004/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -271,6 +273,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/soumarya2004/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/soumarya2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
@@ -333,4 +336,8 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/soumarya2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
