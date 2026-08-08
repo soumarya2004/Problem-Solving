@@ -9,6 +9,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0001-two-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/soumarya2004/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/soumarya2004/Problem-Solving/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/soumarya2004/Problem-Solving/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/soumarya2004/Problem-Solving/tree/master/0049-group-anagrams) |
@@ -129,6 +130,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/soumarya2004/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/soumarya2004/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -160,6 +162,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/soumarya2004/Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/soumarya2004/Problem-Solving/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0088-merge-sorted-array) |
