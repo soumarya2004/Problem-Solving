@@ -38,6 +38,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/soumarya2004/Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -115,6 +116,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0238-product-of-array-except-self](https://github.com/soumarya2004/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/soumarya2004/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -218,6 +221,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumarya2004/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
@@ -283,6 +287,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 ## Trie
 |  |
@@ -291,10 +296,12 @@ This repository contains all DSA patterns and questions covered in leetcode.
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 ## Manacher
 |  |
