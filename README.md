@@ -12,6 +12,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0015-3sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/soumarya2004/Problem-Solving/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/soumarya2004/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/soumarya2004/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/soumarya2004/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/soumarya2004/Problem-Solving/tree/master/0054-spiral-matrix) |
@@ -174,6 +175,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0015-3sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/soumarya2004/Problem-Solving/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/soumarya2004/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/soumarya2004/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/soumarya2004/Problem-Solving/tree/master/0141-linked-list-cycle) |
@@ -219,6 +221,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/soumarya2004/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/soumarya2004/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumarya2004/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -349,5 +352,10 @@ This repository contains all DSA patterns and questions covered in leetcode.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/soumarya2004/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/soumarya2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/soumarya2004/Problem-Solving/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
