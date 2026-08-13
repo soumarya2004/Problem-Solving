@@ -44,6 +44,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/soumarya2004/Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/soumarya2004/Problem-Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumarya2004/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/soumarya2004/Problem-Solving/tree/master/3731-find-missing-elements) |
@@ -96,6 +97,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0567-permutation-in-string](https://github.com/soumarya2004/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/soumarya2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/soumarya2004/Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/soumarya2004/Problem-Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumarya2004/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -371,4 +373,12 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/soumarya2004/Problem-Solving/tree/master/0042-trapping-rain-water) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/soumarya2004/Problem-Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/soumarya2004/Problem-Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
