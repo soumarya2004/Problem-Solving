@@ -41,6 +41,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0977-squares-of-a-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/soumarya2004/Problem-Solving/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/soumarya2004/Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -72,6 +73,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0438-find-all-anagrams-in-a-string](https://github.com/soumarya2004/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/soumarya2004/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/soumarya2004/Problem-Solving/tree/master/0567-permutation-in-string) |
+| [1386-cinema-seat-allocation](https://github.com/soumarya2004/Problem-Solving/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumarya2004/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -217,6 +219,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/soumarya2004/Problem-Solving/tree/master/1386-cinema-seat-allocation) |
 ## Combinatorics
 |  |
 | ------- |
@@ -226,6 +229,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0011-container-with-most-water](https://github.com/soumarya2004/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1386-cinema-seat-allocation](https://github.com/soumarya2004/Problem-Solving/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumarya2004/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
