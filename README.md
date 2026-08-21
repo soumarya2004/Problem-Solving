@@ -49,6 +49,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumarya2004/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumarya2004/Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3731-find-missing-elements](https://github.com/soumarya2004/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/soumarya2004/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumarya2004/Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,6 +149,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumarya2004/Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -221,9 +224,11 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/soumarya2004/Problem-Solving/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumarya2004/Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumarya2004/Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
@@ -369,6 +374,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumarya2004/Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
