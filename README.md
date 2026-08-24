@@ -45,6 +45,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/soumarya2004/Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1872-stone-game-viii](https://github.com/soumarya2004/Problem-Solving/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/soumarya2004/Problem-Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumarya2004/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -137,6 +138,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0560-subarray-sum-equals-k](https://github.com/soumarya2004/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/soumarya2004/Problem-Solving/tree/master/1872-stone-game-viii) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +150,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/soumarya2004/Problem-Solving/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumarya2004/Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -253,6 +256,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/soumarya2004/Problem-Solving/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumarya2004/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
@@ -322,6 +326,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/soumarya2004/Problem-Solving/tree/master/1872-stone-game-viii) |
 ## Trie
 |  |
 | ------- |
@@ -331,11 +336,13 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/soumarya2004/Problem-Solving/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/soumarya2004/Problem-Solving/tree/master/1872-stone-game-viii) |
 ## Manacher
 |  |
 | ------- |
