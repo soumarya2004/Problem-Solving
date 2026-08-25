@@ -51,6 +51,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumarya2004/Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/soumarya2004/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/soumarya2004/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/soumarya2004/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/soumarya2004/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## String
 |  |
