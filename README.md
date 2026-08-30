@@ -46,6 +46,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/soumarya2004/Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/soumarya2004/Problem-Solving/tree/master/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/soumarya2004/Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/soumarya2004/Problem-Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/soumarya2004/Problem-Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumarya2004/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -248,6 +249,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0011-container-with-most-water](https://github.com/soumarya2004/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1386-cinema-seat-allocation](https://github.com/soumarya2004/Problem-Solving/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/soumarya2004/Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumarya2004/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
