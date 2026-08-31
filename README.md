@@ -197,6 +197,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0141-linked-list-cycle](https://github.com/soumarya2004/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/soumarya2004/Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/soumarya2004/Problem-Solving/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
