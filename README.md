@@ -53,6 +53,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumarya2004/Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumarya2004/Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/soumarya2004/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/soumarya2004/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/soumarya2004/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -85,6 +86,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumarya2004/Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/soumarya2004/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/soumarya2004/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## String
@@ -241,6 +243,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/soumarya2004/Problem-Solving/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumarya2004/Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumarya2004/Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
 | ------- |
@@ -322,6 +325,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0054-spiral-matrix](https://github.com/soumarya2004/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/soumarya2004/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumarya2004/Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -372,6 +376,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/soumarya2004/Problem-Solving/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumarya2004/Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
