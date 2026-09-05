@@ -246,6 +246,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/soumarya2004/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/soumarya2004/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/soumarya2004/Problem-Solving/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumarya2004/Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -285,6 +286,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0053-maximum-subarray](https://github.com/soumarya2004/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/soumarya2004/Problem-Solving/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/soumarya2004/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/soumarya2004/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
