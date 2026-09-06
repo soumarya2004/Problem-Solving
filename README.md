@@ -102,6 +102,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0014-longest-common-prefix](https://github.com/soumarya2004/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/soumarya2004/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/soumarya2004/Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/soumarya2004/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/soumarya2004/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/soumarya2004/Problem-Solving/tree/master/0205-isomorphic-strings) |
@@ -274,6 +275,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0005-longest-palindromic-substring](https://github.com/soumarya2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/soumarya2004/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/soumarya2004/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/soumarya2004/Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/soumarya2004/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumarya2004/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
