@@ -113,6 +113,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0443-string-compression](https://github.com/soumarya2004/Problem-Solving/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/soumarya2004/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/soumarya2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/soumarya2004/Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/soumarya2004/Problem-Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/soumarya2004/Problem-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -281,6 +282,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/soumarya2004/Problem-Solving/tree/master/1872-stone-game-viii) |
