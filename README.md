@@ -387,6 +387,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/soumarya2004/Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/soumarya2004/Problem-Solving/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -437,4 +438,12 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/soumarya2004/Problem-Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/soumarya2004/Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/soumarya2004/Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
