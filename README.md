@@ -38,6 +38,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0560-subarray-sum-equals-k](https://github.com/soumarya2004/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumarya2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/soumarya2004/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [0835-image-overlap](https://github.com/soumarya2004/Problem-Solving/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/soumarya2004/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
@@ -341,6 +342,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | ------- |
 | [0054-spiral-matrix](https://github.com/soumarya2004/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/soumarya2004/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/soumarya2004/Problem-Solving/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumarya2004/Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
