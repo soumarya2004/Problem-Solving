@@ -453,4 +453,8 @@ This repository contains all DSA patterns and questions covered in leetcode.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/soumarya2004/Problem-Solving/tree/master/0836-rectangle-overlap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/soumarya2004/Problem-Solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
