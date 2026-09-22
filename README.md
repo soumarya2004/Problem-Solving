@@ -24,6 +24,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumarya2004/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/soumarya2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/soumarya2004/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/soumarya2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/soumarya2004/Problem-Solving/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/soumarya2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
@@ -284,6 +285,7 @@ This repository contains all DSA patterns and questions covered in leetcode.
 | [0118-pascals-triangle](https://github.com/soumarya2004/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumarya2004/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/soumarya2004/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/soumarya2004/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/soumarya2004/Problem-Solving/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/soumarya2004/Problem-Solving/tree/master/0940-distinct-subsequences-ii) |
